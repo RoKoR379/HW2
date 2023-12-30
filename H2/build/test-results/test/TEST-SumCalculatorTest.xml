@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SumCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-30T09:35:22" hostname="DESKTOP-AJG274A" time="0.037">
+  <properties/>
+  <testcase name="sum0Test()" classname="SumCalculatorTest" time="0.026"/>
+  <testcase name="sum1Test()" classname="SumCalculatorTest" time="0.004"/>
+  <testcase name="sum3Test()" classname="SumCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[Test is being executed.
+Test execution completed.
+Test is being executed.
+Test execution completed.
+Test is being executed.
+Test execution completed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
